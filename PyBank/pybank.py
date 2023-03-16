@@ -1,6 +1,7 @@
 import os
 import csv
 
+#Create path for in-file and out-file
 csvpath = os.path.join('Resources','budget_data.csv')
 outpath = os.path.join('Analysis','budget_report.txt')
 
@@ -9,7 +10,7 @@ date = []
 profit_loss = []
 change_profit = []
 
-
+#Open the file to read
 with open(csvpath,'r') as budgetdata:
     csvreader = csv.reader(budgetdata, delimiter=",")
 
