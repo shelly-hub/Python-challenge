@@ -9,11 +9,11 @@ Each folder will contain an Excel CSV file, a python script, and a text file wit
 - Pybank folder is used to analyse financial data , to find out the related profits or loss of the company.
 - Pypoll folder is used to analyse poll data, to find out the candidates polling results.
 
-Benefits of using Python:
+  Benefits of using Python:
 - Python can process this large data in shorten time than when in Excel VBA.
 - By changing the Excel CSV file into lists of Phython, the data can be run with shorter Loop runs and less complex code. As compared in Excel VBA larger loop and more complex script needs to be written.
 
-Disadvantage of using Python:
+  Disadvantage of using Python:
 - Needs to be aware of indentations. Indentation can highly affect how the script is being run.
 - Needs to know to convert the values in CSV to float, integer and convert back to string when print out messages
 - There is no fix order to write python script as the result of each code will change eventually because the codes could affect each others. 
@@ -30,9 +30,14 @@ Disadvantage of using Python:
 ** References**
 
   How to obtain the total numbers of rows from a CSV file in Python?(2014).Stack Overflow. Retrieved 13 March 2023, from <https://stackoverflow.com/questions/16108526/how-to-obtain-the-total-numbers-of-rows-from-a-csv-file-in-python>
+  
   How to count the number of lines in a CSV file in Python?(24 Jan 2021).Geeks for Geeks. Retrieved 14 March 2023, from <https://www.geeksforgeeks.org/how-to-count-the-number-of-lines-in-a-csv-file-in-python/>
+  
   Converting Dictionary to List? [duplicate]. StackOverflow. (2010) Retrieved on 15 March 2023h, from <ttps://stackoverflow.com/questions/1679384/converting-dictionary-to-list>
+  
   Python zip() Method.(2023). TutorialsTeacher. Retrieved on 16 March 2023, from<https://www.tutorialsteacher.com/python/zip-method>
+  
   String Formatting with f String in python.(N.D.)STechnies. Retrieved on 16 March 2023, from <https://www.stechies.com/string-formatting-f-stringin-python/>
+  
   Python zip() Function – Explained with Code Examples(July 23 2021). FreeCodeCamp. Retrieved on 16 March 2023, from<https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/>
 
