@@ -28,4 +28,10 @@ Disadvantage of using Python:
 6. Print out the results analysis and export to other file into a text.file
  
  ** References**
- 
+ Module 3: Python. (06 Mar 2023). Monash University - Data Anlysis Bootcamp, Retrieved 9 March 2023
+ How to obtain the total numbers of rows from a CSV file in Python?(2014).Stack Overflow. Retrieved 13 March 2023, from <https://stackoverflow.com/questions/16108526/how-to-obtain-the-total-numbers-of-rows-from-a-csv-file-in-python>
+ How to count the number of lines in a CSV file in Python?(24 Jan 2021).Geeks for Geeks. Retrieved 14 March 2023, from <https://www.geeksforgeeks.org/how-to-count-the-number-of-lines-in-a-csv-file-in-python/>
+ Converting Dictionary to List? [duplicate]. StackOverflow. (2010) Retrieved on 15 March 2023h, from <ttps://stackoverflow.com/questions/1679384/converting-dictionary-to-list>
+ Python zip() Method.(2023). TutorialsTeacher. Retrieved on 16 March 2023, from<https://www.tutorialsteacher.com/python/zip-method>
+ String Formatting with f String in python.(N.D.)STechnies. Retrieved on 16 March 2023, from <https://www.stechies.com/string-formatting-f-stringin-python/>
+ Python zip() Function – Explained with Code Examples(July 23 2021). FreeCodeCamp. Retrieved on 16 March 2023, from<https://www.freecodecamp.org/news/the-zip-function-in-python-explained-with-examples/>
