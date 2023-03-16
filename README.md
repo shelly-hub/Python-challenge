@@ -1,6 +1,6 @@
 # Python-challenge
 
-This is an exercise to practise the used of Python to analyse 2 excel CSV file, and carry out calculations required.
+This is an exercise to practise the use of Python to analyse 2 excel CSV file, and carry out calculations required.
 
 **Project Description**
 
